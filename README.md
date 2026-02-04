@@ -1,4 +1,4 @@
-# Gödel 2024
+# Gödel 2026
 
 BMETE915042; Gödel tételkör, bizonyításelmélet;	Vizsga;	3 kredit; Algebra és Geometria Tanszék BME TTK MI
 
