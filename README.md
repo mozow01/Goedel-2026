@@ -13,7 +13,7 @@ Példákon megnézzük, hogy Bertrand Russell logikafilozófiai gondolatai milye
 
 # Tematika
 
-1. Bevezető; tárgy- és matanyelv
+1. Bevezető; tárgy- és metanyelv
 2. A klasszikus logikai jelentéselmélet paradoxonai (Russell logicizmusa)
 3. Intuicionizmus (Brouwer és Dummett intuicionizmusa)
 4. Finitizmus és a Hilbert program
