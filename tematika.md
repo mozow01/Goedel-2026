@@ -9,6 +9,6 @@
 7. **Az univerzális kvantor bizonyításelmélete** [ https://github.com/mozow01/Goedel-2026/blob/main/proofs.pdf ] 31-35 o.
 8. **Az egzisztenciális kvantor bizonyításelmélete** [ https://github.com/mozow01/Goedel-2026/blob/main/proofs.pdf ] 36-41 o.
 9. **A Hilbert-féle epszilon szimbólum, a drinkerparadoxon és a tanúk** [ https://github.com/mozow01/Goedel-2026/blob/main/proofs.pdf ] 43-49 o.
-10. **A Gödel-cikk bevezetője, személetes gondolatmenet** [ https://github.com/mozow01/Goedel-2026/blob/main/Goedeltheorem.djvu ] 596-599 o.
-11. **A Gödel-cikk formális része, csak a reprezentációs lemmáig** [ https://github.com/mozow01/Goedel-2026/blob/main/Goedeltheorem.djvu ] 599-607 o.
-12. **A Gödel-tétel Kleene-féle bizonyítása, Church-tézis** [ https://github.com/mozow01/Goedel-2026/blob/main/KleeneProof.pdf ]
+10. **A Gödel-cikk bevezetője, személetes gondolatmenet** [ https://math.bme.hu/~mozow/Goedeltheorem.pdf ] 596-599 o.
+11. **A Gödel-cikk formális része, csak a reprezentációs lemmáig** [ https://math.bme.hu/~mozow/Goedeltheorem.pdf ] 599-607 o.
+12. **A Gödel-tétel Kleene-féle bizonyítása, Church-tézis** [ https://math.bme.hu/~mozow/Goedeltheorem.pdf ]
