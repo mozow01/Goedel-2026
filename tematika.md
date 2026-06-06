@@ -11,4 +11,4 @@
 9. **A Hilbert-féle epszilon szimbólum, a drinkerparadoxon és a tanúk** [ https://github.com/mozow01/Goedel-2026/blob/main/proofs.pdf ] 43-49 o.
 10. **A Gödel-cikk bevezetője, személetes gondolatmenet** [ https://math.bme.hu/~mozow/Goedeltheorem.pdf ] 596-599 o.
 11. **A Gödel-cikk formális része, csak a reprezentációs lemmáig** [ https://math.bme.hu/~mozow/Goedeltheorem.pdf ] 599-607 o.
-12. **A Gödel-tétel Kleene-féle bizonyítása, Church-tézis** [ https://math.bme.hu/~mozow/Goedeltheorem.pdf ]
+12. **A Gödel-tétel Kleene-féle bizonyítása, Church-tézis** [ https://github.com/mozow01/Goedel-2026/blob/main/KleeneProof.pdf ]
